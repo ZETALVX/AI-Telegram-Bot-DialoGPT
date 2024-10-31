@@ -2,7 +2,7 @@
 Basic GPT AI Chatbot with DIalo-GPT Large and Telegram integration.
 
 ******************
-**The code is made by me, and you are free to use it. I only ask you, if you appreciate my work, to cite me in case you will it for any purpose.
+**The code is made by me, and you are free to use it. I only ask you, if you appreciate my work, to cite me in case you will use it for any purpose.
 Also consider following me on my channels and feel free to ask anything.**
 ******************
 
