@@ -65,6 +65,10 @@ The code implements a chatbot that can interact with users both through the cons
 nuto in both text and speech.
 - **Telegram Bot Thread:** Starts the Telegram bot in a separate thread to handle Telegram interactions at the same time as console interactions.
 - **Console Interaction Loop:** Provides a loop for console-based interaction, handling special commands (`'save state'`, `'save consciousness'`, `'train'`) and generating responses to user inputs.
+  
+Latest additions:
+- **verification_tokenization** to do some tests by taking a number of examples of the dataset based on those indicated in the code, and have the bot analyze them as it would do during training, so as to see if the generated response and the related token contain errors,
+- **analysis_dataset_length** analyzes the length of the dataset so as to understand its weight and be able to customize the bot with the parameters you need.
 
 **Imported Libraries:**
 
