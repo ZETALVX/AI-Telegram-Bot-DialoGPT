@@ -1,5 +1,5 @@
 # AI-Telegram-Bot-DialoGPT
-Basic GPT AI Chatbot with DIalo-GPT Large and Telegram integration.
+Basic GPT AI Chatbot with DIalo-GPT Large and Telegram integration using Python.
 
 ******************
 **The code is made by me, and you are free to use it. I only ask you, if you appreciate my work, to cite me in case you will use it for any purpose.
@@ -69,6 +69,9 @@ nuto in both text and speech.
 Latest additions:
 - **verification_tokenization** to do some tests by taking a number of examples of the dataset based on those indicated in the code, and have the bot analyze them as it would do during training, so as to see if the generated response and the related token contain errors,
 - **analysis_dataset_length** analyzes the length of the dataset so as to understand its weight and be able to customize the bot with the parameters you need.
+
+**Language used:**
+Python
 
 **Imported Libraries:**
 
