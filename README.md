@@ -105,6 +105,9 @@ Python
 10. **API Licenses and Policies:**
 - Comply with the licenses associated with the libraries and models you are using.
 
+***Fine tuning***
+The dataset file for the training (example redcity.json) must be inside the ***dataset*** folder in the same path as the Python code file.
+
 **In Summary:**
 
 This code provides a solid foundation for a conversational AI chatbot that can interact both via the console interface and Telegram. It integrates natural language processing, text-to-speech, and real-time messaging. By following the above considerations, you can recreate the code, customize it to your needs, and ensure it operates effectively and securely.
