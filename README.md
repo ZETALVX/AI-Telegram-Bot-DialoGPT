@@ -78,7 +78,7 @@ Python
 **Imported Libraries:**
 
 - **Standard Libraries:**
-- `re`, `warnings`, `torch`, `threading`, `logging`, `json`, `numpy`, `datetime`, `os`, `shutil`, `pandas`, `traceback`, `asyncio`
+- `re`, `warnings`, `torch`, `threading`, `logging`, `json`, `numpy`, `datetime`, `os`, `shutil`, `pandas`, `traceback`, `asyncio`, `Pytz`
 - **Third Party Libraries:**
 - `gtts`, `playsound`, `transformers`, `datasets`, `telegram`, `telegram.ext`
 
