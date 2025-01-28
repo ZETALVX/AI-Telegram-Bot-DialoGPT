@@ -8,6 +8,9 @@ Video: https://www.youtube.com/watch?v=t8VHjuGTduE&t
 Also consider following me on my channels and feel free to ask anything.**
 ******************
 
+I created two versions:
+A basic version with only the chatbot functionality,and another version with the implementation of Google Text To Speech and Telegram.
+
 The code implements a chatbot that can interact with users both through the console and through Telegram. It uses a pre-trained language model (specifically, Microsoft's DialoGPT-large) to generate responses based on user input. Key features of the code include:
 
 - **Text-to-Speech (TTS):** Converts bot responses to speech using Google Text-to-Speech (gTTS) and plays the audio.
